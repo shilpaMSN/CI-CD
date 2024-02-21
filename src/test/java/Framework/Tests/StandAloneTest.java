@@ -17,6 +17,7 @@ import org.testng.Assert;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
+		//NEW COMMENTS ARE ADDED
 		String productName="ZARA COAT 3";
 		WebDriver driver=new ChromeDriver();
 		
